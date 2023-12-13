@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: Romani sources in Russian archives
+title: Romani sources in Russian archives
+description: A collection of sources on Romani from archives in Moscow and Saint Petersburg
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications:
 ---
 
 Every project has a beautiful feature showcase page.
