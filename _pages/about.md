@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Linguist working on Romani, Baltic and Slavic languages · University of Potsdam
+subtitle: Linguist · University of Potsdam
 description: Kirill Kozhanov, linguist at the University of Potsdam. Research on Romani dialectology, Baltic and Slavic linguistics, language contact and linguistic typology.
 
 profile:
@@ -34,8 +34,8 @@ I received my PhD in 2016 from the Institute of Slavic Studies of the Russian Ac
 ### Current work
 
 - **Books in preparation:** *A grammar, dictionary and texts of Lithuanian Romani* and a *Grammar of Russian Romani*
-- **Etymological dictionary of Romani**
-- **Edited volumes:** *Flagging in diachrony* and TrIMCo
+- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon
+- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier
 - **Corpora:** Lithuanian Romani; Old Believers
 - **Articles** on Romani dialects of Ukraine
 - **Planned:** a project on the diachronic stability of cases and prepositions in Sorbian
