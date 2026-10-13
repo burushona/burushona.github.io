@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some projects I worked on in the past.
+description: Research projects on Romani and its history.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
