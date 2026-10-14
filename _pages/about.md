@@ -7,7 +7,7 @@ description: Kirill Kozhanov, linguist at the University of Potsdam. Research on
 
 profile:
   align: right
-  image:
+  image: kozhanov.jpg
   image_circular: false
   more_info: >
     <p>Department of Slavic Studies</p>
