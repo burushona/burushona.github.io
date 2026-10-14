@@ -38,6 +38,12 @@
           {%- assign doi_text = doi_url | prepend: ' ' | append: '.' -%}
           {%- assign ref = ref | replace: doi_text, '' -%}
         {%- endif -%}
+        {%- comment -%} Highlight own name; add other spellings to the list if needed {%- endcomment -%}
+        {%- assign my_names = "Kozhanov, Kirill|Kirill Kozhanov|Kožanov, Kirill A.|Kožanov, K. A." | split: "|" -%}
+        {%- for n in my_names -%}
+          {%- capture n_bold -%}<strong>{{ n }}</strong>{%- endcapture -%}
+          {%- assign ref = ref | replace: n, n_bold -%}
+        {%- endfor -%}
         <div class="reference">{{ ref }}</div>
 
           <!-- Links/Buttons -->
