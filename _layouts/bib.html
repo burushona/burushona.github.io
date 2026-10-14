@@ -44,6 +44,10 @@
           {%- capture n_bold -%}<strong>{{ n }}</strong>{%- endcapture -%}
           {%- assign ref = ref | replace: n, n_bold -%}
         {%- endfor -%}
+        {%- comment -%} Keep a bracketed translation after an italic title upright, as in LangSci style {%- endcomment -%}
+        {%- if ref contains "]</i>" -%}
+          {%- assign ref = ref | replace: " [", "</i> [" | replace: "]</i>", "]" -%}
+        {%- endif -%}
         <div class="reference">{{ ref }}</div>
 
           <!-- Links/Buttons -->
