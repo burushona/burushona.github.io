@@ -274,7 +274,7 @@ scholar:
   last_name: [Kozhanov]
   first_name: [Kirill]
 
-  style: apa
+  style: _bibliography/unified-style-sheet-for-linguistics.csl  # Unified Style Sheet for Linguistics (as used by Language Science Press)
   locale: en
 
   source: /_bibliography/
