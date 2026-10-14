@@ -10,7 +10,9 @@ profile:
   image: kozhanov.jpg
   image_circular: false
   more_info: >
-    <p>kozhanov (at) uni-potsdam.de</p>
+    <p><a href="https://www.uni-potsdam.de/en/slavische-linguistik/team/kirill-kozhanov">Department of Slavic Studies<br>University of Potsdam</a></p>
+    <p style="white-space: nowrap;"><i class="fa-solid fa-envelope"></i> kozhanov (at) uni-potsdam.de</p>
+    <p>
     <p>
       <a href="https://wipcad-potsdam.academia.edu/KirillKozhanov" title="Academia.edu"><i class="ai ai-academia"></i></a>
       <a href="https://www.researchgate.net/profile/Kirill-Kozhanov" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
