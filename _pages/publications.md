@@ -9,6 +9,16 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+## Books
+{% bibliography -f {{ site.scholar.bibliography }} --query @book %}
+
+## Journal articles
+{% bibliography -f {{ site.scholar.bibliography }} --query @article %}
+
+## Book chapters
+{% bibliography -f {{ site.scholar.bibliography }} --query @incollection %}
+
+## Encyclopedia entries and other
+{% bibliography -f {{ site.scholar.bibliography }} --query @misc %}
 
 </div>
