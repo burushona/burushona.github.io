@@ -39,8 +39,8 @@ I have been active in language documentation and description, working primarily 
 ### Current work
 
 - **Books in preparation:** *A grammar, dictionary and texts of Lithuanian Romani* and a *Grammar of Russian Romani*
-- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier [to be published with Language Science Press](https://langsci-press.org/catalog/book/616)
-- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon [draft regularly updated](https://rromanes.org/pub/%D0%AD%D0%A1%D0%A6%D0%AF.pdf)
+- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier ([to be published with Language Science Press](https://langsci-press.org/catalog/book/616))
+- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon ([draft regularly updated](https://rromanes.org/pub/%D0%AD%D0%A1%D0%A6%D0%AF.pdf))
 - **Corpora:** Lithuanian Romani; speech of Old Believers in Latgalia
 
 See also my [publications](/publications/) and [projects](/projects/).
