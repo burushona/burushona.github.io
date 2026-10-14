@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Linguist · University of Potsdam
-description: Kirill Kozhanov, linguist at the University of Potsdam. Research on Romani dialectology, Baltic and Slavic linguistics, language contact and linguistic typology.
+description: Kirill Kozhanov, linguist at the University of Potsdam. Research on Romani, Baltic and Slavic linguistics, language contact and linguistic typology.
 
 profile:
   align: right
