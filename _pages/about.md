@@ -25,9 +25,9 @@ selected_papers: false
 social: false
 ---
 
-I am a linguist working on **Romani**, **Baltic** and **Slavic** languages, with a focus on language contact, dynamics of language change, and linguistic typology. Since 2022 I have been a postdoctoral researcher in the Department of Slavic Studies at the University of Potsdam.
+I am a linguist working on **Romani**, **Baltic** and **Slavic** languages, with a focus on language contact, multilingualism, dynamics of language change, and linguistic typology. Since 2022 I have been a postdoctoral researcher in the Department of Slavic Studies at the University of Potsdam.
 
-I received my PhD in 2016 from the Institute of Slavic Studies of the Russian Academy of Sciences with a dissertation on Balto-Slavic areal contacts in verbal prefixation. Before coming to Potsdam, I was a postdoctoral researcher in Romani studies at Södertörn University, Stockholm (2019–2022).
+I have been active in language documentation and description, working primarily on Romani dialects (Russia, Lithuania, Ukraine, Moldova and, more recently, North Macedonia). I have also been part of teams working on Neo-Aramaic (Semitic) in southern Russia and Kullui (Indo-Aryan) in northern India.
 
 ### Research interests
 - Language contact, borrowing of morphology and areal typology
@@ -39,8 +39,8 @@ I received my PhD in 2016 from the Institute of Slavic Studies of the Russian Ac
 ### Current work
 
 - **Books in preparation:** *A grammar, dictionary and texts of Lithuanian Romani* and a *Grammar of Russian Romani*
-- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier
-- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon
+- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier [to be published with Language Science Press](https://langsci-press.org/catalog/book/616)
+- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon [draft regularly updated](https://rromanes.org/pub/%D0%AD%D0%A1%D0%A6%D0%AF.pdf)
 - **Corpora:** Lithuanian Romani; speech of Old Believers in Latgalia
 
 See also my [publications](/publications/) and [projects](/projects/).
