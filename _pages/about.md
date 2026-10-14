@@ -32,7 +32,7 @@ I received my PhD in 2016 from the Institute of Slavic Studies of the Russian Ac
 ### Research interests
 - Language contact, borrowing of morphology and areal typology
 - Diachronic stability of grammatical features
-- Case marking and argument flagging, synchronically and diachronically
+- Flagging (case and adpositional marking), synchronically and diachronically
 - Romani dialectology and the description of understudied Romani varieties in Eastern and Southern Europe
 
 
