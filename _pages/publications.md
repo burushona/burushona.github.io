@@ -20,12 +20,15 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="pub-section">Books</h2>
-{% bibliography -f {{ site.scholar.bibliography }} --query @book %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @book[keywords!~edited] %}
+
+<h2 class="pub-section">Edited volumes and special issues</h2>
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[keywords~=edited] %}
 
 <h2 class="pub-section">Journal articles</h2>
-{% bibliography -f {{ site.scholar.bibliography }} --query @article %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @article[keywords!~edited] %}
 
 <h2 class="pub-section">Book chapters and encyclopedia entries</h2>
-{% bibliography -f {{ site.scholar.bibliography }} --query @incollection %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @incollection[keywords!~edited] %}
 
 </div>
