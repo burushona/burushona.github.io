@@ -10,8 +10,6 @@ profile:
   image: kozhanov.jpg
   image_circular: false
   more_info: >
-    <p>Department of Slavic Studies</p>
-    <p>University of Potsdam</p>
     <p>kozhanov (at) uni-potsdam.de</p>
     <p>
       <a href="https://orcid.org/0000-0003-0907-6012" title="ORCID"><i class="ai ai-orcid ai-2x"></i></a>
