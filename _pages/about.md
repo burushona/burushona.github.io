@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>kozhanov (at) uni-potsdam.de</p>
     <p>
-      <a href="https://orcid.org/0000-0003-0907-6012" title="ORCID"><i class="ai ai-orcid ai-2x"></i></a>
+      <a href="https://orcid.org/0000-0003-0907-6012" title="ORCID"><i class="ai ai-orcid"></i></a>
       <a href="https://wipcad-potsdam.academia.edu/KirillKozhanov" title="Academia.edu"><i class="ai ai-academia ai-2x"></i></a>
       <a href="https://www.researchgate.net/profile/Kirill-Kozhanov" title="ResearchGate"><i class="ai ai-researchgate ai-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=fjgw2VwAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a>
