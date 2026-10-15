@@ -3,41 +3,44 @@ layout: about
 title: about
 permalink: /
 subtitle: Linguist · University of Potsdam
-description: Kirill Kozhanov, linguist at the University of Potsdam. Research on Romani dialectology, Baltic and Slavic linguistics, language contact and linguistic typology.
+description: Kirill Kozhanov, linguist at the University of Potsdam. Research on Romani, Baltic and Slavic linguistics, language contact and linguistic typology.
 
 profile:
   align: right
-  image:
+  image: kozhanov.jpg
   image_circular: false
   more_info: >
-    <p>Department of Slavic Studies</p>
-    <p>University of Potsdam</p>
-    <p>kozhanov (at) uni-potsdam.de</p>
-
+    <p><a href="https://www.uni-potsdam.de/en/slavische-linguistik/team/kirill-kozhanov">University of Potsdam</a></p>
+    <p style="white-space: nowrap;"><i class="fa-solid fa-envelope"></i> kozhanov (at) uni-potsdam.de</p>
+    <p>
+    <p>
+      <a href="https://wipcad-potsdam.academia.edu/KirillKozhanov" title="Academia.edu"><i class="ai ai-academia"></i></a>
+      <a href="https://www.researchgate.net/profile/Kirill-Kozhanov" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+      <a href="https://scholar.google.com/citations?user=fjgw2VwAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://github.com/burushona" title="GitHub"><i class="fa-brands fa-github"></i></a>
+      <a href="https://orcid.org/0000-0003-0907-6012" title="ORCID"><i class="ai ai-orcid"></i></a>
+    </p>
 news: false
 selected_papers: false
 social: false
 ---
 
-I am a linguist working on **Romani**, **Baltic** and **Slavic** languages, with a focus on dialectology, language contact and linguistic typology. Since 2022 I have been a postdoctoral researcher in the Department of Slavic Studies at the University of Potsdam.
+I am a linguist working on **Romani**, **Baltic** and **Slavic** languages, with a focus on language contact, multilingualism, dynamics of language change, and linguistic typology. Since 2022 I have been a postdoctoral researcher in the Department of Slavic Studies at the University of Potsdam.
 
-I received my PhD in 2016 from the Institute of Slavic Studies of the Russian Academy of Sciences with a dissertation on Balto-Slavic areal contacts in verbal prefixation. Before coming to Potsdam, I was a research fellow at the Institute of Slavic Studies in Moscow (2013–2019), worked in the project *The Baltic Verb: Grams, Categories, Domains* at Vilnius University (2018–2021), and was a postdoctoral researcher in Romani studies at the Centre for Baltic and East European Studies, Södertörn University, Stockholm (2019–2022).
+I have been active in language documentation and description, working primarily on Romani dialects (Russia, Lithuania, Ukraine, Moldova and, more recently, North Macedonia). I have also been part of teams working on Neo-Aramaic (Semitic) in southern Russia and Kullui (Indo-Aryan) in northern India.
 
 ### Research interests
+- Language contact, borrowing of morphology and areal typology
+- Diachronic stability of grammatical features
+- Flagging (case and adpositional marking), synchronically and diachronically
+- Romani dialectology and the description of understudied Romani varieties in Eastern and Southern Europe
 
-- Romani dialectology and the description of understudied Romani varieties, especially in the Baltic states, Ukraine and Russia
-- Language contact, borrowing of morphology and areal typology in the Baltic–Slavic region
-- Verbal prefixation, aspect and pluractionality
-- Case marking and argument flagging, synchronically and diachronically
-- Historical sources on Romani in Russian and Lithuanian archives
 
 ### Current work
 
 - **Books in preparation:** *A grammar, dictionary and texts of Lithuanian Romani* and a *Grammar of Russian Romani*
-- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon
-- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier
-- **Corpora:** Lithuanian Romani; Old Believers
-- **Articles** on Romani dialects of Ukraine
-- **Planned:** a project on the diachronic stability of cases and prepositions in Sorbian
+- **Edited volumes:** *Flagging in diachrony* co-edited with Gilles Authier ([to be published with Language Science Press](https://langsci-press.org/catalog/book/616))
+- **Etymological dictionary of Romani** in cooperation with Mikhail Oslon ([draft regularly updated](https://rromanes.org/pub/%D0%AD%D0%A1%D0%A6%D0%AF.pdf))
+- **Corpora:** Lithuanian Romani; speech of Old Believers in Latgalia
 
 See also my [publications](/publications/) and [projects](/projects/).
