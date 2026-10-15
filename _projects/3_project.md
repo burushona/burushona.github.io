@@ -1,9 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Lithuanian Romani
+description: Documentation and description of Lithuanian Romani
 importance: 3
 category: work
 ---
