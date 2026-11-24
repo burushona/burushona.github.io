@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects on Romani and its history.
+description: Research projects in linguistics.
 nav: true
 nav_order: 2
 display_categories: [work]
