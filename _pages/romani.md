@@ -26,7 +26,7 @@ Data from this corpus have been used, for example, in [my paper on the developme
 
 ### Historical sources
 
-Since the early 2010s, I have been collecting unpublished sources on Romani in Russian and Lithuanian archives. This work resulted in the monograph *Romani in sources of the 18th–19th centuries (from the archives of Russia and Lithuania)* (*Цыганский язык в источниках XVIII–XIX вв. (из архивов России и Литвы)*), published in Russian in 2025. The list of Northeastern Romani word forms attested in archival sources up to the early 20th century, which is published in the book, is also available as a [CLDF dataset](LINK-TO-REPOSITORY) on my GitHub and as a [searchable website](https://burushona.github.io/Northeastern-Romani-in-archival-sources/).
+Since the early 2010s, I have been collecting unpublished sources on Romani in Russian and Lithuanian archives. This work resulted in the monograph *Romani in sources of the 18th–19th centuries (from the archives of Russia and Lithuania)* (*Цыганский язык в источниках XVIII–XIX вв. (из архивов России и Литвы)*), published in Russian in 2025. The list of Northeastern Romani word forms attested in archival sources up to the early 20th century, which is published in the book, is also available as a [CLDF dataset](https://github.com/burushona/Northeastern-Romani-in-archival-sources) on my GitHub and as a [searchable website](https://burushona.github.io/Northeastern-Romani-in-archival-sources/).
 
 ### Etymological dictionary
 
